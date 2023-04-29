@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    width: 200px;
+    padding-left: 500px;
+    padding-top: 250px;
+}
+
+.top {
+    background-color: gray;
+    color: aliceblue;
+}
+
+.foot {
+    background-color: beige;
+}
